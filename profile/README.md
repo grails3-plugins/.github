@@ -1,6 +1,4 @@
-# grails3-plugins No Longer Used
+# The `grails3-plugins` Github Organization is No Longer Used
 
-The grails3-plugins organization has been deprecated.  
-
-Please see the [grails-plugins orgnization](https://github.com/grails-plugins).
+All relevant plugins have been moved to the [`grails-plugins` organization](https://github.com/grails-plugins).
 
